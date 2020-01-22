@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "language": 0,
+    "book": 0,
+    "title": "Caminho",
+    "points": 999
+  },
+  {
+    "id": 2,
+    "language": 0,
+    "book": 1,
+    "title": "Sulco",
+    "points": 1000
+  },
+  {
+    "id": 3,
+    "language": 0,
+    "book": 2,
+    "title": "Forja",
+    "points": 1055
+  }
+]
