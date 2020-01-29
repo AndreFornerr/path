@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-        RetriviedData.dataBooksFromJson(assets.open("books.json"));
+        val retriviedData = RetriviedData(this).loadAllObjectsFromJson()
 
         val menuAdapter = MenuAdapter(menus)
 
