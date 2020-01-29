@@ -1,0 +1,660 @@
+[
+  {
+    "id": 1,
+    "language": 0,
+    "book": 0,
+    "chapter": 0,
+    "title": "Prólogo do autor"
+  },
+  {
+    "id": 2,
+    "language": 0,
+    "book": 0,
+    "chapter": 1,
+    "title": "Caráter"
+  },
+  {
+    "id": 3,
+    "language": 0,
+    "book": 0,
+    "chapter": 2,
+    "title": "Direção espiritual"
+  },
+  {
+    "id": 4,
+    "language": 0,
+    "book": 0,
+    "chapter": 3,
+    "title": "Oração"
+  },
+  {
+    "id": 5,
+    "language": 0,
+    "book": 0,
+    "chapter": 4,
+    "title": "Santa Pureza"
+  },
+  {
+    "id": 6,
+    "language": 0,
+    "book": 0,
+    "chapter": 5,
+    "title": "Coração"
+  },
+  {
+    "id": 7,
+    "language": 0,
+    "book": 0,
+    "chapter": 6,
+    "title": "Mortificação"
+  },
+  {
+    "id": 8,
+    "language": 0,
+    "book": 0,
+    "chapter": 7,
+    "title": "Penitência"
+  },
+  {
+    "id": 9,
+    "language": 0,
+    "book": 0,
+    "chapter": 8,
+    "title": "Exame de consciência"
+  },
+  {
+    "id": 10,
+    "language": 0,
+    "book": 0,
+    "chapter": 9,
+    "title": "Propósitos"
+  },
+  {
+    "id": 11,
+    "language": 0,
+    "book": 0,
+    "chapter": 10,
+    "title": "Escrúpulos"
+  },
+  {
+    "id": 12,
+    "language": 0,
+    "book": 0,
+    "chapter": 11,
+    "title": "Presença de Deus"
+  },
+  {
+    "id": 13,
+    "language": 0,
+    "book": 0,
+    "chapter": 12,
+    "title": "Vida sobrenatural"
+  },
+  {
+    "id": 14,
+    "language": 0,
+    "book": 0,
+    "chapter": 13,
+    "title": "Mais sobre vida interior"
+  },
+  {
+    "id": 15,
+    "language": 0,
+    "book": 0,
+    "chapter": 14,
+    "title": "Tibieza"
+  },
+  {
+    "id": 16,
+    "language": 0,
+    "book": 0,
+    "chapter": 15,
+    "title": "Estudo"
+  },
+  {
+    "id": 17,
+    "language": 0,
+    "book": 0,
+    "chapter": 16,
+    "title": "Formação"
+  },
+  {
+    "id": 18,
+    "language": 0,
+    "book": 0,
+    "chapter": 17,
+    "title": "O plano da tua santidade"
+  },
+  {
+    "id": 19,
+    "language": 0,
+    "book": 0,
+    "chapter": 18,
+    "title": "Amor de Deus"
+  },
+  {
+    "id": 20,
+    "language": 0,
+    "book": 0,
+    "chapter": 19,
+    "title": "Caridade"
+  },
+  {
+    "id": 21,
+    "language": 0,
+    "book": 0,
+    "chapter": 20,
+    "title": "Os meios"
+  },
+  {
+    "id": 22,
+    "language": 0,
+    "book": 0,
+    "chapter": 21,
+    "title": "A Virgem Maria"
+  },
+  {
+    "id": 23,
+    "language": 0,
+    "book": 0,
+    "chapter": 22,
+    "title": "A Igreja"
+  },
+  {
+    "id": 24,
+    "language": 0,
+    "book": 0,
+    "chapter": 23,
+    "title": "Santa Missa"
+  },
+  {
+    "id": 25,
+    "language": 0,
+    "book": 0,
+    "chapter": 24,
+    "title": "Comunhão dos Santos"
+  },
+  {
+    "id": 26,
+    "language": 0,
+    "book": 0,
+    "chapter": 25,
+    "title": "Devoções"
+  },
+  {
+    "id": 27,
+    "language": 0,
+    "book": 0,
+    "chapter": 26,
+    "title": "Fé"
+  },
+  {
+    "id": 28,
+    "language": 0,
+    "book": 0,
+    "chapter": 27,
+    "title": "Humildade"
+  },
+  {
+    "id": 29,
+    "language": 0,
+    "book": 0,
+    "chapter": 28,
+    "title": "Obediência"
+  },
+  {
+    "id": 30,
+    "language": 0,
+    "book": 0,
+    "chapter": 29,
+    "title": "Pobreza"
+  },
+  {
+    "id": 31,
+    "language": 0,
+    "book": 0,
+    "chapter": 30,
+    "title": "Discrição"
+  },
+  {
+    "id": 32,
+    "language": 0,
+    "book": 0,
+    "chapter": 31,
+    "title": "Alegria"
+  },
+  {
+    "id": 33,
+    "language": 0,
+    "book": 0,
+    "chapter": 32,
+    "title": "Outras virtudes"
+  },
+  {
+    "id": 34,
+    "language": 0,
+    "book": 0,
+    "chapter": 33,
+    "title": "Tribulações"
+  },
+  {
+    "id": 35,
+    "language": 0,
+    "book": 0,
+    "chapter": 34,
+    "title": "Luta interior"
+  },
+  {
+    "id": 36,
+    "language": 0,
+    "book": 0,
+    "chapter": 35,
+    "title": "Novíssimos"
+  },
+  {
+    "id": 37,
+    "language": 0,
+    "book": 0,
+    "chapter": 36,
+    "title": "A Vontade de Deus"
+  },
+  {
+    "id": 38,
+    "language": 0,
+    "book": 0,
+    "chapter": 37,
+    "title": "A Glória de Deus"
+  },
+  {
+    "id": 39,
+    "language": 0,
+    "book": 0,
+    "chapter": 38,
+    "title": "Proselitismo"
+  },
+  {
+    "id": 40,
+    "language": 0,
+    "book": 0,
+    "chapter": 39,
+    "title": "Pequenas coisas"
+  },
+  {
+    "id": 41,
+    "language": 0,
+    "book": 0,
+    "chapter": 40,
+    "title": "Tática"
+  },
+  {
+    "id": 42,
+    "language": 0,
+    "book": 0,
+    "chapter": 41,
+    "title": "Infância espiritual"
+  },
+  {
+    "id": 43,
+    "language": 0,
+    "book": 0,
+    "chapter": 42,
+    "title": "Vida de infância"
+  },
+  {
+    "id": 44,
+    "language": 0,
+    "book": 0,
+    "chapter": 43,
+    "title": "Chamamento"
+  },
+  {
+    "id": 45,
+    "language": 0,
+    "book": 0,
+    "chapter": 44,
+    "title": "O Apóstolo"
+  },
+  {
+    "id": 46,
+    "language": 0,
+    "book": 0,
+    "chapter": 45,
+    "title": "O Apostolado"
+  },
+  {
+    "id": 47,
+    "language": 0,
+    "book": 0,
+    "chapter": 46,
+    "title": "Perseverança"
+  },
+  {
+    "id": 48,
+    "language": 0,
+    "book": 1,
+    "chapter": 0,
+    "title": "Prólogo do autor"
+  },
+  {
+    "id": 49,
+    "language": 0,
+    "book": 1,
+    "chapter": 1,
+    "title": "Generosidade"
+  },
+  {
+    "id": 50,
+    "language": 0,
+    "book": 1,
+    "chapter": 2,
+    "title": "Respeitos humanos"
+  },
+  {
+    "id": 51,
+    "language": 0,
+    "book": 1,
+    "chapter": 3,
+    "title": "Alegria"
+  },
+  {
+    "id": 52,
+    "language": 0,
+    "book": 1,
+    "chapter": 4,
+    "title": "Audácia"
+  },
+  {
+    "id": 53,
+    "language": 0,
+    "book": 1,
+    "chapter": 5,
+    "title": "Lutas"
+  },
+  {
+    "id": 54,
+    "language": 0,
+    "book": 1,
+    "chapter": 6,
+    "title": "Pescadores he homens"
+  },
+  {
+    "id": 55,
+    "language": 0,
+    "book": 1,
+    "chapter": 7,
+    "title": "Sofrimento"
+  },
+  {
+    "id": 56,
+    "language": 0,
+    "book": 1,
+    "chapter": 8,
+    "title": "Humildade"
+  },
+  {
+    "id": 57,
+    "language": 0,
+    "book": 1,
+    "chapter": 9,
+    "title": "Cidadania"
+  },
+  {
+    "id": 58,
+    "language": 0,
+    "book": 1,
+    "chapter": 10,
+    "title": "Sinceridade"
+  },
+  {
+    "id": 59,
+    "language": 0,
+    "book": 1,
+    "chapter": 11,
+    "title": "Lealdade"
+  },
+  {
+    "id": 60,
+    "language": 0,
+    "book": 1,
+    "chapter": 12,
+    "title": "Disciplina"
+  },
+  {
+    "id": 61,
+    "language": 0,
+    "book": 1,
+    "chapter": 13,
+    "title": "Personalidade"
+  },
+  {
+    "id": 62,
+    "language": 0,
+    "book": 1,
+    "chapter": 14,
+    "title": "Oração"
+  },
+  {
+    "id": 63,
+    "language": 0,
+    "book": 1,
+    "chapter": 15,
+    "title": "Trabalho"
+  },
+  {
+    "id": 64,
+    "language": 0,
+    "book": 1,
+    "chapter": 16,
+    "title": "Frivolidade"
+  },
+  {
+    "id": 65,
+    "language": 0,
+    "book": 1,
+    "chapter": 17,
+    "title": "Naturalidade"
+  },
+  {
+    "id": 66,
+    "language": 0,
+    "book": 1,
+    "chapter": 18,
+    "title": "Veracidade"
+  },
+  {
+    "id": 67,
+    "language": 0,
+    "book": 1,
+    "chapter": 19,
+    "title": "Ambição"
+  },
+  {
+    "id": 68,
+    "language": 0,
+    "book": 1,
+    "chapter": 20,
+    "title": "Hipocrisia"
+  },
+  {
+    "id": 69,
+    "language": 0,
+    "book": 1,
+    "chapter": 21,
+    "title": "Vida interior"
+  },
+  {
+    "id": 70,
+    "language": 0,
+    "book": 1,
+    "chapter": 22,
+    "title": "Soberba"
+  },
+  {
+    "id": 71,
+    "language": 0,
+    "book": 1,
+    "chapter": 23,
+    "title": "Amizade"
+  },
+  {
+    "id": 72,
+    "language": 0,
+    "book": 1,
+    "chapter": 24,
+    "title": "Vontade"
+  },
+  {
+    "id": 73,
+    "language": 0,
+    "book": 1,
+    "chapter": 25,
+    "title": "Coração"
+  },
+  {
+    "id": 74,
+    "language": 0,
+    "book": 1,
+    "chapter": 26,
+    "title": "Pureza"
+  },
+  {
+    "id": 75,
+    "language": 0,
+    "book": 1,
+    "chapter": 27,
+    "title": "Paz"
+  },
+  {
+    "id": 76,
+    "language": 0,
+    "book": 1,
+    "chapter": 28,
+    "title": "O Além"
+  },
+  {
+    "id": 77,
+    "language": 0,
+    "book": 1,
+    "chapter": 29,
+    "title": "A Língua"
+  },
+  {
+    "id": 78,
+    "language": 0,
+    "book": 1,
+    "chapter": 30,
+    "title": "Propaganda"
+  },
+  {
+    "id": 79,
+    "language": 0,
+    "book": 1,
+    "chapter": 31,
+    "title": "Responsabilidade"
+  },
+  {
+    "id": 80,
+    "language": 0,
+    "book": 1,
+    "chapter": 32,
+    "title": "Penitência"
+  },
+  {
+    "id": 81,
+    "language": 0,
+    "book": 2,
+    "chapter": 0,
+    "title": "Prólogo"
+  },
+  {
+    "id": 82,
+    "language": 0,
+    "book": 2,
+    "chapter": 1,
+    "title": "Deslumbramento"
+  },
+  {
+    "id": 83,
+    "language": 0,
+    "book": 2,
+    "chapter": 2,
+    "title": "Luta"
+  },
+  {
+    "id": 84,
+    "language": 0,
+    "book": 2,
+    "chapter": 3,
+    "title": "Derrota"
+  },
+  {
+    "id": 85,
+    "language": 0,
+    "book": 2,
+    "chapter": 4,
+    "title": "Pessimismo"
+  },
+  {
+    "id": 86,
+    "language": 0,
+    "book": 2,
+    "chapter": 5,
+    "title": "Podes!"
+  },
+  {
+    "id": 87,
+    "language": 0,
+    "book": 2,
+    "chapter": 6,
+    "title": "Tornar a lutar"
+  },
+  {
+    "id": 88,
+    "language": 0,
+    "book": 2,
+    "chapter": 7,
+    "title": "Ressurgir"
+  },
+  {
+    "id": 89,
+    "language": 0,
+    "book": 2,
+    "chapter": 8,
+    "title": "Vitória"
+  },
+  {
+    "id": 90,
+    "language": 0,
+    "book": 2,
+    "chapter": 9,
+    "title": "Labor"
+  },
+  {
+    "id": 91,
+    "language": 0,
+    "book": 2,
+    "chapter": 10,
+    "title": "Crisol"
+  },
+  {
+    "id": 92,
+    "language": 0,
+    "book": 2,
+    "chapter": 11,
+    "title": "Seleção"
+  },
+  {
+    "id": 93,
+    "language": 0,
+    "book": 2,
+    "chapter": 12,
+    "title": "Fecundidade"
+  },
+  {
+    "id": 94,
+    "language": 0,
+    "book": 2,
+    "chapter": 13,
+    "title": "Eternidade"
+  }
+]
